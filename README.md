@@ -1,6 +1,6 @@
 # SuperBit
 
-Extension for  V1.0
+Extension for wgkj  V1.0
 
 ## License
 
